@@ -1,0 +1,4 @@
+Write a program to add two fractions.
+
+Rules:	No Global variables
+	Minimum of four functions
